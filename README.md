@@ -63,8 +63,8 @@ Sequential(
 #### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/cifar10-cnn.git
-cd cifar10-cnn
+git clone https://github.com/Zeyad-Baloch/cifar-10-classification.git
+cd cifar-10-classification
 ```
 
 #### 2. Install Dependencies
@@ -86,7 +86,7 @@ tensorflow
 #### 3. Run the Script
 
 ```bash
-python cifar10_cnn.py
+python cifar10_classification.py
 ```
 
 
